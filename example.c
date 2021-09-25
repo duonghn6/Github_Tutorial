@@ -5,6 +5,7 @@ int main()
     int a, b, c;
     printf("Nhap input: ");
     scanf("%d %d", a, b);
-    printf("Tong %d + %d = %d", c);
+    printf("Tong %d + %d = %d\n", c);
+    printf("Add github some information");
     return 0;
 }
